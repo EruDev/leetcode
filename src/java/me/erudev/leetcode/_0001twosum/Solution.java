@@ -1,4 +1,4 @@
-package me.erudev.leetcode._001twosum;
+package me.erudev.leetcode._0001twosum;
 
 import java.util.Arrays;
 import java.util.HashMap;
